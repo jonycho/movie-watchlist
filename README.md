@@ -5,7 +5,7 @@ This project is created in HTML, CSS and JavaScript based on the The Open Movie 
 
 ## Live Demo 📱
 
-https://quiz-movie-project.netlify.app/
+https://moviewatchlistapi.netlify.app/
 
 ## Screenshots 🖼️
 
